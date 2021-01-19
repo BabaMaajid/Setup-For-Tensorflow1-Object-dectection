@@ -9,7 +9,7 @@ Step 5  Activate Environment\
 Step 6  Install Dependencies\
         ***pip install pillow lxml Cython contextlib2 jupyter matplotlib pandas opencv-python tensorflow==1.14.0***\
 Step 7 From Research Folder install setup.py\
-       *** python setup.py install***\
+       ***python setup.py install***\
 Step 8 Install Conda Package Manager\
        ***conda install -c anaconda protobuf***\
 Step 9 For Coversion\
@@ -17,6 +17,10 @@ Step 9 For Coversion\
          - ***protoc object_detection/protos/*.proto --python_out=.***\
        - For Linux\
          - ***protoc object_detection/protos/*.proto --python_out=.***\
-Step 10 open the object detection Jupyternotebook(obj_dec.py)
+Step 10 open the object detection Jupyternotebook(obj_dec.py)\
+# Miscellaneous\
+1. [Model ZOO link](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md)\
+2.[Google Colab Setup for tfod](https://c17hawke.github.io/tfod-setup/p02/)\
+
 
            
