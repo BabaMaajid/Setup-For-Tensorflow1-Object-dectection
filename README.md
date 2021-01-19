@@ -18,9 +18,9 @@ Step 9 For Coversion\
        - For Linux\
          - ***protoc object_detection/protos/*.proto --python_out=.***\
 Step 10 open the object detection Jupyternotebook(obj_dec.py)\
-# Miscellaneous\
-1. [Model ZOO link](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md)\
-2.[Google Colab Setup for tfod](https://c17hawke.github.io/tfod-setup/p02/)\
+# Miscellaneous
+1.[Model ZOO link](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md)\
+2.[Google Colab Setup for tfod](https://c17hawke.github.io/tfod-setup/p02/)
 
 
            
