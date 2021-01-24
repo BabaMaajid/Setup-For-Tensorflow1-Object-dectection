@@ -14,7 +14,7 @@ Step 8 Install Conda Package Manager\
        ***conda install -c anaconda protobuf***\
 Step 9 For Coversion\
        - For windows\
-         - ***protoc object_detection/protos/*.proto --python_out=.***\
+         - ***protoc object_detection/protos/ *.proto --python_out=.***\
        - For Linux\
          - ***protoc object_detection/protos/*.proto --python_out=.***\
 Step 10 open the object detection Jupyternotebook(obj_dec.py)\
